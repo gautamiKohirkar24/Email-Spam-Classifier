@@ -46,7 +46,8 @@ We trained each of the Naive Bayes models using the training dataset and evaluat
 ## Results
 - Achieved an accuracy of 98% on the test dataset.
 - Achieved a Precision of 94% on the test dataset.
-By comparing the results of each Naive Bayes algorithm, we observed that:
+
+# By comparing the results of each Naive Bayes algorithm, we observed that:
 
 - **Multinomial Naive Bayes** achieved the highest precision and F1 score, indicating that it was the most effective in correctly classifying spam emails while minimizing false positives.
 - **Gaussian Naive Bayes** performed reasonably well but was not as effective as the Multinomial variant, likely due to the assumptions about feature distributions not aligning with the text data.
