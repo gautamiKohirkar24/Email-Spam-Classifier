@@ -1,5 +1,8 @@
 # Email Spam Classifier
 
+[Email Spam Classifier](https://t3.ftcdn.net/jpg/09/20/22/64/360_F_920226428_V01z4i1KrONjr0pBwVaWw9OHt4hjM2ga.jpg)
+
+
 ## Project Overview
 The Email Spam Classifier project aims to develop a machine learning model that can accurately classify emails as either spam or not spam (ham). With the increasing amount of unsolicited emails, automating this classification can significantly improve email management for users.
 
